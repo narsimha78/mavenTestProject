@@ -12,6 +12,7 @@ public class LoginTest {
 		System.out.println("Login Fuction to access email account");
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://greatandhra.com");
+		//greatandhra website page should open 
 	}
 
 }
